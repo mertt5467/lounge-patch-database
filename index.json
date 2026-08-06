@@ -1,5 +1,37 @@
 [
   {
+    "id": "wutheringwaves",
+    "title": "Wuthering Waves",
+    "type": "llm",
+    "typeName": "LLM Çevirisi",
+    "badgeClass": "badge-human",
+    "badgeIcon": "fa-brain",
+    "translator": "Lounge Çeviri",
+    "percent": 100,
+    "size": "22 B",
+    "rating": 5,
+    "downloads": "Yeni",
+    "version": "3.5.0",
+    "defaultPath": "",
+    "banner": "https://raw.githubusercontent.com/mertt5467/lounge-patch-database/main/Wuthering%20Waves/banner.jpg",
+    "thumb": "https://raw.githubusercontent.com/mertt5467/lounge-patch-database/main/Wuthering%20Waves/icon.png",
+    "overview": "3.5.0 yama yayınlandı",
+    "downloadUrl": "https://github.com/mertt5467/lounge-patch-database/releases/download/lounge-patches/wutheringwaves-patch.zip",
+    "exeName": "game.exe",
+    "steamId": "3513350",
+    "epicId": "",
+    "installed": false,
+    "changelog": [
+      {
+        "ver": "3.5.0",
+        "desc": "Güncelleme yapıldı."
+      }
+    ],
+    "files": [
+      "patch.zip"
+    ]
+  },
+  {
     "id": "nevernesstoeverness",
     "title": "Neverness to Everness",
     "type": "llm",
