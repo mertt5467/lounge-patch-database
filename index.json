@@ -8,10 +8,10 @@
     "badgeIcon": "fa-brain",
     "translator": "Lounge Çeviri",
     "percent": 100,
-    "size": "12.2 MB",
+    "size": "42.6 MB",
     "rating": 5,
     "downloads": "Yeni",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "defaultPath": "",
     "banner": "https://raw.githubusercontent.com/mertt5467/lounge-patch-database/main/Neverness%20to%20Everness/banner.jpg",
     "thumb": "https://raw.githubusercontent.com/mertt5467/lounge-patch-database/main/Neverness%20to%20Everness/icon.png",
@@ -23,7 +23,7 @@
     "installed": false,
     "changelog": [
       {
-        "ver": "1.2.2",
+        "ver": "1.2.3",
         "desc": "Güncelleme yapıldı."
       }
     ],
